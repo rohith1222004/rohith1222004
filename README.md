@@ -1,6 +1,6 @@
 # **Love To Contribute** ❤️
 
-### Technologies and Tools:
+### Technologies and Tools
 <div align="center">
   <img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -22,7 +22,7 @@
   <img alt="Shadcn" src="https://img.shields.io/badge/Shadcn-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-## Connect with Me:
+## Connect with Me
 <div align="">
   <a href="https://www.linkedin.com/in/rohithkumar02/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
