@@ -1,5 +1,5 @@
 # **Love To Contribute** ❤️
-<div>
+<div align="center">
     <h1>Love To Contribute ❤️</h1>
 </div>
 ### Technologies and Tools
