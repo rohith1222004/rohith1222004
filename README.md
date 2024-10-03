@@ -1,5 +1,7 @@
 # **Love To Contribute** ❤️
-
+<div>
+    <h1>Love To Contribute ❤️</h1>
+</div>
 ### Technologies and Tools
 <div align="center">
   <img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
