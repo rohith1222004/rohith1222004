@@ -25,7 +25,7 @@
 
 
 ## 🔗 Connect with Me:
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/rohithkumar02/)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/rohithkumar02/)
 
 
 
