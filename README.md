@@ -26,5 +26,9 @@
 
 ## 🔗 Connect with Me:
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/rohithkumar02/)
-[![Email](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:brohithkumar02@gmail.com)
+<a href="mailto:your_email@example.com">
+  <img src="https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email" width="50" height="50"/>
+</a>
+
+
 
