@@ -23,7 +23,7 @@
 </div>
 
 ## Connect with Me:
-<div align="center">
+<div align="">
   <a href="https://www.linkedin.com/in/rohithkumar02/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
