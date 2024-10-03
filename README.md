@@ -1,7 +1,7 @@
 # **Love To Contribute** ❤️
 
 
-## 🛠️ Technologies and Tools:
+## Technologies and Tools:
 <div align="center">
   <img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
