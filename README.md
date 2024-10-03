@@ -5,10 +5,6 @@
 # **Love To Contribute**
  
 ## 🛠️ Technologies and Tools:
-- Frontend: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-- Backend: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-- Database: ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=white&style=flat)
-- Cloud: ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 <div align="center">
   <img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
