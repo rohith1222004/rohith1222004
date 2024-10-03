@@ -25,5 +25,6 @@
 
 
 ## 🔗 Connect with Me:
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rohithkumar02/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/rohithkumar02/)
+
 
