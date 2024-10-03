@@ -26,6 +26,6 @@
 
 ## 🔗 Connect with Me:
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/rohithkumar02/)
-
+[![Email](https://img.icons8.com/color/48/000000/email.png)
 
 
